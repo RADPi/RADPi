@@ -3,8 +3,8 @@
 ## I'm Analyst Programmer and an Associate of Computer Systems Analysts student.
 
 - 🌱 I’m currently learning React and TypeScript 
-- 🥅 2021 Goals: Become a Full Stack MERN & Mobile Developer
-- 👀 I’m interesting in Web and Mobile projects
+<!-- - 🥅 2021 Goals: Become a Full Stack MERN & Mobile Developer
+- 👀 I’m interesting in Web and Mobile projects -->
 
 ##
 
